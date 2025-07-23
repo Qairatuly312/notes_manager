@@ -78,8 +78,8 @@ Authorization: Bearer YOUR_JWT_TOKEN
 Content-Type: application/json"
 {
  "title": "Updated Title", 
- "content": "Updated content
-"}
+ "content": "Updated content"
+}
 ```
 
 This is POSTMAN collection for testing(in the Authorization bar change the JWT/Bearer Code)
